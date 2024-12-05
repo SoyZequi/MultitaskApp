@@ -43,5 +43,4 @@ Multitask es una aplicación móvil desarrollada con Flutter que integra múltip
 
 2. **Clonar el Repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/multitask-app.git
-   cd multitask-app
+
